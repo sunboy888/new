@@ -1,5 +1,5 @@
 [rewrite_local]
-^https:\/\/user-snow-api.snow.me\/v1\/purchase\/subscription\/subscriber\/status url script-response-body https://raw.githubusercontent.com/afengye/QX/main/danbo.js
+^https:\/\/user-snow-api.snow.me\/v1\/purchase\/subscription\/subscriber\/status url script-response-body https://raw.githubusercontent.com/sunboy888/new/main/sn.js
 [mitm] 
 hostname = user-snow-api.snow.me
 *******************************/
