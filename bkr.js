@@ -6,7 +6,7 @@
 使用声明：️仅供学习交流, 🈲️商业用途
 *******************************
 [rewrite_local]
-^https:\/\/api\.bookr\.com\.cn\/api\/mobile\/(users\/me|children) url script-response-body https://raw.githubusercontent.com/sunboy888/new/main/bkr.js
+^https:\/\/api.bookr.com.cn\/mobile\/(users\/me|children) url script-response-body https://raw.githubusercontent.com/sunboy888/new/main/bkr.js
 [mitm] 
 hostname = api.bookr.com.cn
 *******************************/
