@@ -2,7 +2,7 @@
 ^https:\/\/api\.bookr\.com\.cn\/api\/mobile\/(users\/me|children) url script-response-body https://raw.githubusercontent.com/sunboy888/new/main/bkr.js
 
 [mitm]
-hostname = api.bookr.com
+hostname = api.bookr.com.cn
 
 */
 
